@@ -1,0 +1,236 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>02 Bash, VIM, and the Command Line</title>
+
+		<link rel="stylesheet" href="./dist/reveal.css">
+		<link rel="stylesheet" href="./dist/theme/black.css" id="theme">
+
+    <link rel="stylesheet" href="./plugin/highlight/monokai.css">
+	</head>
+
+	<body>
+
+		<div class="reveal">
+
+			<div class="slides">
+
+                <section data-markdown data-separator="^\n---\n$" data-separator-vertical="^\n--\n$">
+                    <script type="text/template">
+
+<!-- .slide: data-background="#043310" -->
+
+# 02 Bash, VIM, and the Command Line
+## COMP 426
+
+---
+
+## Agenda
+
+- Basic UNIX shell commands/tools
+- Using VIM to edit text files
+- Writing a shell script
+- Running shell scripts
+- Demos
+
+---
+
+## Keys instead of clicks
+
+---
+
+## BASH
+
+The Bourne Again SHell
+
+---
+
+## UNIX basics
+
+--
+
+## The prompt
+
+`user@host ~ $`
+
+--
+
+## Where am I?
+
+`pwd`
+
+--
+
+## What is here?
+
+`ls`
+
+--
+
+## Get me out of here
+
+`cd`
+
+---
+
+## Files and directories
+
+--
+
+## Create a file
+
+`touch`
+
+--
+
+## Create a directory
+
+`mkdir`
+
+--
+
+## Move something
+
+`mv`
+
+--
+
+## Copy something
+
+`cp`
+
+--
+
+## Delete something
+
+`rm`
+
+---
+
+<!-- .slide: data-background="#4b0c8a" -->
+
+## VIM
+
+The best text editor ever, improved
+
+---
+
+## Open and close
+
+`vim FILENAME`
+
+`:q`
+
+---
+
+## VIM Modes
+
+--
+
+<!-- .slide: data-background="#e07809" -->
+
+## Command mode
+
+Just press ESC
+
+--
+
+<!-- .slide: data-background="#4b0c8a" -->
+
+## Insert mode
+
+Just type the letter 'i'
+
+---
+
+<!-- .slide: data-background="#09b5e0" -->
+
+## Writing and editing
+
+---
+
+## Write
+
+`:w`
+
+--
+
+## Exit
+
+`:q`
+
+--
+
+## Write and exit
+
+`:wq`
+
+--
+
+## Discard changes
+
+`:q!`
+
+--
+
+<!-- .slide: data-background="#045469" -->
+
+## Scripting in Bash
+
+--
+
+## Shebang
+
+`#!/bin/bash`
+
+--
+
+## Run without permissions
+
+`bash ./FILENAME.sh`
+
+-- 
+
+## Run with permissions
+
+`chmod +x FILENAME.sh`
+
+--
+
+`./FILENAME.sh`
+
+---
+
+[Demo time](https://code.johndmart.in)
+
+---
+
+                    </script>
+                </section>
+            </div>
+		</div>
+
+		<script src="./dist/reveal.js"></script>
+        <script src="./plugin/markdown/markdown.js"></script>
+        <script src="./plugin/highlight/highlight.js"></script>
+        <script src="./plugin/notes/notes.js"></script>
+        <script src="./plugin/math/math.js"></script>
+
+		<script>
+
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes, RevealMath.KaTeX ]
+			});
+
+		</script>
+
+	</body>
+</html>
