@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>HTTP Headers</title>
+
+		<meta name="description" content="Node.js">
+		<meta name="author" content="John D. Martin III">
+
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<link rel="stylesheet" href="dist/reset.css">
+		<link rel="stylesheet" href="dist/reveal.css">
+		<link rel="stylesheet" href="dist/theme/black.css" id="theme">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="plugin/highlight/monokai.css">
+	</head>
+
+	<body>
+
+		<div class="reveal">
+
+			<!-- Any section element inside of this container is displayed as a slide -->
+			<div class="slides">
+				<section data-background-image="./headers.png" data-background-position="left" data-background-opacity="0.25">
+					<h2>curl, HTTP headers, and APIs</h2>
+					<h3>
+						COMP 426
+					</h3>	
+				</section>
+        		<section>
+						<h2>Agenda</h2>
+						<ol>
+							<li>Your new best friend, curl</li>
+							<li>What do headers do?</li>
+							<li>How can we see them?</li>
+								<ol>
+									<li>curl</li>
+									<li>Inspector</li>
+								</ol>
+							<li>Requests and responses</li>
+							<li>What do statuses tell us?</li>
+						</ol>
+				</section>
+
+				<section data-auto-animate data-background-image="https://jvns.ca/images/curl.jpeg" data-background-position="center" data-background-size="contain" data-background-color="white">
+          		</section>
+
+				<section>
+					<h2 data-id="code-title">Request header</h2>
+					<pre data-id="code-animation"><code class="hljs">
+> HEAD / HTTP/2
+> Host: comp426.johndmart.in
+> user-agent: curl/7.74.0
+> accept: */*
+>
+					</code></pre>
+				</section>
+        
+        		<section data-auto-animate>
+					<h3 data-id="code-title">Response header</h3>
+					<pre data-id="code-animation"><code class="hljs" data-trim >
+< HTTP/2 200 
+< date: Tue, 25 Jan 2022 18:49:37 GMT
+< content-type: text/html; charset=utf-8
+< last-modified: Tue, 25 Jan 2022 16:35:00 GMT
+< access-control-allow-origin: *
+< expires: Tue, 25 Jan 2022 17:35:56 GMT
+< cache-control: max-age=600
+< x-proxy-cache: MISS
+< x-github-request-id: E7F0:6B6C:80FEB:1FCA70:61F032A4
+< via: 1.1 varnish
+< age: 0
+< x-served-by: cache-pdk17829-PDK
+< x-cache: HIT
+< x-cache-hits: 1
+< x-timer: S1643136577.126331,VS0,VE20
+< vary: Accept-Encoding
+< x-fastly-request-id: 58ffa7ae5a2fed06a397539795fed754f81b9982
+< cf-cache-status: DYNAMIC
+< expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+< report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=lL9LtTFFVGIwxMaBbYyrYA67HSdqQvpBHfQbEUkUFPKcG27W8kPWdLG98RfeOc7vCopCi%2FreyU10SAWrB1EgGTyvR5L7rlf6r67zZG88jWe2itzRGf9QhErwgL6pnNinIDkae%2FtpZw%3D%3D"}],"group":"cf-nel","max_age":604800}
+< nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+< server: cloudflare
+< cf-ray: 6d33aeb6db478d4c-ATL
+< alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+					</code></pre>
+				</section>
+        
+        		<section data-auto-animate>
+					<h2 data-id="code-title">Status Codes</h2>
+					<pre data-id="code-animation"><code data-trim>
+100		Information
+200		Success
+300		Redirection
+400		Client error
+500		Server error
+					</code></pre>
+				</section>
+        
+        <section data-auto-animate>
+					<h2 data-id="code-title">404</h2>
+					<pre data-id="code-animation"><code class="hljs" data-trim>
+$ curl -I https://comp426.johndmart.in/hello
+< HTTP/2 404 
+< date: Tue, 25 Jan 2022 19:08:52 GMT
+< content-type: text/html; charset=utf-8
+< access-control-allow-origin: *
+< x-proxy-cache: MISS
+< x-github-request-id: 6EC0:3A44:1B027E:2F6CEF:61F04AC4
+< via: 1.1 varnish
+< age: 0
+< x-served-by: cache-iad-kiad7000119-IAD
+< x-cache: MISS
+< x-cache-hits: 0
+< x-timer: S1643137732.433783,VS0,VE12
+< vary: Accept-Encoding
+< x-fastly-request-id: d1a6e37b628db4b212f92460742c7f3731e2424d
+< cf-cache-status: DYNAMIC
+< expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+< report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=V9pBv6fZCr6rjln5QEGnnw9cZWa38kqLWIORCzsnGvMcVa3Ft%2F7nN9ob%2FzA%2BiN4M19V%2BwAhA8bwZtxgFqNTn7FP5EOPUHUyKnnxp%2B0WbHDCDPE3p%2BM50vifO%2BXF3jviSjHBTMH1R6Q%3D%3D"}],"group":"cf-nel","max_age":604800}
+< nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+< server: cloudflare
+< cf-ray: 6d33caeb99c781cf-IAD
+< alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+					</code></pre>
+				</section>
+        
+        		<section data-auto-animate data-background-image="https://jvns.ca/images/curl.jpeg" data-background-position="center" data-background-size="contain" data-background-color="white">
+          		</section>
+
+				<section data-auto-animate>
+						<a href="https://code.johndmart.in" target="_blank">Demo</a>
+				</section>
+        
+			</div>
+
+		</div>
+
+		<script src="dist/reveal.js"></script>
+		<script>
+			Reveal.initialize();
+			const loadScript = src => {
+				return new Promise((resolve, reject) => {
+						const script = document.createElement('script');
+						script.type = 'text/javascript';
+						script.onload = resolve;
+						script.onerror = reject;
+						script.src = src;
+						document.head.append(script);
+				})
+			}
+
+			loadScript( 'plugin/highlight/highlight.js' ).then(() => {
+				Reveal.registerPlugin( RevealHighlight )
+			})
+		</script>
+
+	</body>
+</html>
