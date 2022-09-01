@@ -11,7 +11,7 @@ The list below has links to the agenda for each session, which will also contain
 | [2022-08-23 02 bash + vim](./02.md) | [Notes](./02.md#notes) | [Slides](https://comp426-2022-fall.github.io/schedule/slides/02.html) | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3be983ed-8323-4721-a0da-aefa00df7e22) |
 | [2022-08-25 03 Node.js + npm](./03.md) | [Notes](./03.md#notes) | [Slides](https://comp426-2022-fall.github.io/schedule/slides/03.html) | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c51ae8d8-c6a7-4016-8e24-aefc00e18343) |
 | [2022-08-30 04 curl + APIs](./04.md) | [Notes](./04.md#notes) | [Slides](https://comp426-2022-fall.github.io/schedule/slides/04.html) | |
-| 2022-09-01 05 git | |  | |
+| [2022-09-01 05 git](./05.md) | [Notes](./04.md#notes) |  |  |
 | 2022-09-06 ** Wellness day | |  | |
 | 2022-09-08 06 Manipulating data (functions) | |  | |
 | 2022-09-13 07 Creating data (functions) | |  | |
