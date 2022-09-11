@@ -2,7 +2,9 @@
 
 ## Modern Web Programming (COMP 426)
 
-The list below has links to the agenda for each session, which will also contain notes, and links to any slides used.
+The table below has links to the agenda for each session.
+The agenda pages will also contain notes from each session, linked below.
+The table will also contain links to any slides used in class sessions and session recordings.
 
 | Session | Notes | Slides | Recordings |
 |:--- |:--- |:--- |:--- |
