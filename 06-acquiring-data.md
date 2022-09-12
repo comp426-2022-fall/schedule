@@ -5,18 +5,22 @@
 1. API GET calls
 2. JSON
 3. Curl/Bash
-  -. Using Curl to get JSON
-  -. Scripting Curl with a bash script
-  -. Bash STDOUT
-  -. Saving JSON to a file with Curl/Bash
+  - Using Curl to get JSON
+  - Scripting Curl with a bash script
+  - Bash STDOUT
+  - Saving JSON to a file with Curl/Bash
 4. Node
-  -. Reading JSON from a file in Node/JavaScript
-  -. Using Fetch to get JSON
-  -. Saving JSON to a file in Node
-  -. Holding JSON in memory
-  -. Displaying JSON on STDOUT
+  - Reading JSON from a file in Node/JavaScript
+  - Using Fetch to get JSON
+  - Saving JSON to a file in Node
+  - Holding JSON in memory
+  - Displaying JSON on STDOUT
 
 ### Useful links
+
+#### Web APIs
+
+[public-apis: A collective list of free APIs for use in software and web development](https://github.com/public-apis/public-apis) 
 
 #### JSON
 
