@@ -40,6 +40,8 @@
 
 [Download jq](https://stedolan.github.io/jq/download/)
 
+[jq tutorial](https://stedolan.github.io/jq/tutorial/)
+
 #### Node, Files, and JSON
 
 [Reading and writing JSON files in Node.js: A complete tutorial](https://blog.logrocket.com/reading-writing-json-files-nodejs-complete-tutorial/) - Joseph Mawa, LogRocket Blog
