@@ -38,6 +38,8 @@
 
 [Parse JSON data using jq and curl from command line](https://medium.com/how-tos-for-coders/https-medium-com-how-tos-for-coders-parse-json-data-using-jq-and-curl-from-command-line-5aa8a05cd79b) - Parse JSON data using jq and curl from command line - Kaushal Shah
 
+[Download jq](https://stedolan.github.io/jq/download/)
+
 #### Node, Files, and JSON
 
 [Reading and writing JSON files in Node.js: A complete tutorial](https://blog.logrocket.com/reading-writing-json-files-nodejs-complete-tutorial/) - Joseph Mawa, LogRocket Blog
