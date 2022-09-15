@@ -47,7 +47,7 @@ Usage: galosh.js [options] -[n|s] LATITUDE -[e|w] LONGITUDE -z TIME_ZONE
 #### Comments as planning/structure
 
 ```
-// Dependencied
+// Dependencies
 
 // Default action
 
@@ -59,3 +59,4 @@ Usage: galosh.js [options] -[n|s] LATITUDE -[e|w] LONGITUDE -z TIME_ZONE
 
 // Cleanup and exit (if necessary)
 
+#### Example cli.js script from class
