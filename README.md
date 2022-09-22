@@ -16,10 +16,10 @@ The table will also contain links to any slides used in class sessions and sessi
 | [2022-09-01 05 git](./05-git.md) | [Notes](./05-git.md#notes) |  | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=77963683-5fa0-46e2-aac3-af0300de56fa) |
 | 2022-09-06 ** Wellness day | |  | |
 | [2022-09-08 06 Acquiring data](./06-acquiring-data.md) | [Notes](./06-acquiring-data.md#notes) |  | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fe926cc0-29ad-457c-b19d-af0f002612b5) |
-| [2022-09-13 07 Manipulating data](./07-manipulate-data.md) | [Notes](./07-manipulate-data.md#notes) |  | |
-| [2022-09-15 08 Scripting](./08-scripting.md) | [Notes](./08-scripting.md) |  | |
-| [2022-09-20 09 Packages and dependency management](./09-dependencies.md) | [Notes](./09-dependencies.md#notes) |  | |
-| [2022-09-22 10 Creating data](./10-create-data.md) | [Notes](./10-create-data.md#notes) |  | |
+| [2022-09-13 07 Manipulating data](./07-manipulate-data.md) | [Notes](./07-manipulate-data.md#notes) |  | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=851513e4-9e7b-46fc-a3fc-af0f00dd5058) |
+| [2022-09-15 08 Scripting](./08-scripting.md) | [Notes](./08-scripting.md) |  | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a8a01bae-344b-442e-bc34-af12009d1b77) |
+| [2022-09-20 09 Packages and dependency management](./09-dependencies.md) | [Notes](./09-dependencies.md#notes) |  | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=89bbb0f5-9e1d-465b-bba1-af1600d8c78e) |
+| [2022-09-22 10 Creating data](./10-create-data.md) | [Notes](./10-create-data.md#notes) |  | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=09705938-3406-45cd-883d-af1800dee9b3) |
 | [2022-09-27 11 Creating a library package](./11-library-package.md) | [Notes](./11-library-package.md#notes) |  | |
 | [2022-09-29 12 Serving data (API)](./12-serving-data.md) | [Notes](./12-serving-data.md#notes) |  | |
 | [2022-10-04 13 Connecting a database](./13-database.md) | [Notes](./13-database.md#notes) |  | |
