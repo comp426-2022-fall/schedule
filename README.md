@@ -19,12 +19,12 @@ The table will also contain links to any slides used in class sessions and sessi
 | [2022-09-13 07 Manipulating data](./07-manipulate-data.md) | [Notes](./07-manipulate-data.md#notes) |  | |
 | [2022-09-15 08 Scripting](./08-scripting.md) | [Notes](./08-scripting.md) |  | |
 | [2022-09-20 09 Packages and dependency management](./09-dependencies.md) | [Notes](./09-dependencies.md#notes) |  | |
-| [2022-09-22 08 Creating data](./10-create-data.md) | [Notes](./10-create-data.md#notes) |  | |
-| [2022-09-27 10 Creating a library package](./11-library-package.md) | [Notes](./11-library-package.md#notes) |  | |
-| [2022-09-29 11 Serving data (API)](./12-serving-data.md) | [Notes](./12-serving-data.md#notes) |  | |
-| [2022-10-04 12 Connecting a database](./13-database.md) | [Notes](./13-database.md#notes) |  | |
-| [2022-10-06 13 Logs](./14-logs.md) | [Notes](./14-logs.md#notes) |  | |
-| [2022-10-11 14 Authenticating users](./15-auth.md) | [Notes](./15-auth.md#notes) |  | |
+| [2022-09-22 10 Creating data](./10-create-data.md) | [Notes](./10-create-data.md#notes) |  | |
+| [2022-09-27 11 Creating a library package](./11-library-package.md) | [Notes](./11-library-package.md#notes) |  | |
+| [2022-09-29 12 Serving data (API)](./12-serving-data.md) | [Notes](./12-serving-data.md#notes) |  | |
+| [2022-10-04 13 Connecting a database](./13-database.md) | [Notes](./13-database.md#notes) |  | |
+| [2022-10-06 14 Logs](./14-logs.md) | [Notes](./14-logs.md#notes) |  | |
+| [2022-10-11 15 Authenticating users](./15-auth.md) | [Notes](./15-auth.md#notes) |  | |
 | 2022-10-13 16  | |  | |
 | 2022-10-18 17  | |  | |
 | 2022-10-20 ** Fall Break | |  | |
