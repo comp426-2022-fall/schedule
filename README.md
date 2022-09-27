@@ -19,12 +19,13 @@ The table will also contain links to any slides used in class sessions and sessi
 | [2022-09-13 07 Manipulating data](./07-manipulate-data.md) | [Notes](./07-manipulate-data.md#notes) |  | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=851513e4-9e7b-46fc-a3fc-af0f00dd5058) |
 | [2022-09-15 08 Scripting](./08-scripting.md) | [Notes](./08-scripting.md) |  | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a8a01bae-344b-442e-bc34-af12009d1b77) |
 | [2022-09-20 09 Packages and dependency management](./09-dependencies.md) | [Notes](./09-dependencies.md#notes) |  | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=89bbb0f5-9e1d-465b-bba1-af1600d8c78e) |
-| [2022-09-22 10 Creating data](./10-create-data.md) | [Notes](./10-create-data.md#notes) |  | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=09705938-3406-45cd-883d-af1800dee9b3) |
-| [2022-09-27 11 Creating a library package](./11-library-package.md) | [Notes](./11-library-package.md#notes) |  | |
-| [2022-09-29 12 Serving data (API)](./12-serving-data.md) | [Notes](./12-serving-data.md#notes) |  | |
-| [2022-10-04 13 Connecting a database](./13-database.md) | [Notes](./13-database.md#notes) |  | |
-| [2022-10-06 14 Logs](./14-logs.md) | [Notes](./14-logs.md#notes) |  | |
-| [2022-10-11 15 Authenticating users](./15-auth.md) | [Notes](./15-auth.md#notes) |  | |
+| [2022-09-22 10 Functions](./10-functions.md) | [Notes](./10-functions.md#notes) |  | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=09705938-3406-45cd-883d-af1800dee9b3) |
+| [2022-09-27 11 Creating a module](./11-create-module.md) | [Notes](./11-create-module.md#notes) |  | |
+| [2022-09-29 12 Generate data](./12-generate-data.md) |[Notes](./12-generate-data.md#notes) |  | |
+| [2022-10-04 13 Serving data (API)](./13-serving-data.md) | [Notes](./13-serving-data.md#notes) |  | |
+| [2022-10-06 14 Connecting a database](./14-database.md) | [Notes](./14-database.md#notes) |  | |
+| [2022-10-11 15 Logs](./15-logs.md) | [Notes](./15-logs.md#notes) |  | |
+| [2022-10-13 16 Authenticating users](./16-auth.md) | [Notes](./16-auth.md#notes) |  | |
 | 2022-10-13 16  | |  | |
 | 2022-10-18 17  | |  | |
 | 2022-10-20 ** Fall Break | |  | |
