@@ -46,3 +46,73 @@ Your next assignment will be to build a command line weather app that ingests da
 In this session we will look over a Bash script model for what you will do and work through addresssing some of the necessary components that will allow you to replicate the existing script with Node instead of Bash.
 
 To get us started, we'll look at a code sample Bash script called _galo.sh_ written by someone you know: https://github.com/jdmar3/galo.sh
+
+#### Code from class demo
+
+This is a demo of how to use variables to manipulate a string that we are feeding to `fetch()` as an argument:
+
+```
+// Load fetch
+import fetch from 'node-fetch';
+
+// Default action
+
+// Process options
+
+
+// Declare latitude
+let latitude = '35.90'
+// Declare longitude
+let longitude = '-79.05'
+// Core function
+// Make a request
+const response = await fetch('https://api.open-meteo.com/v1/forecast?latitude=' + latitude + '&longitude=' + longitude + '&hourly=temperature_2m,relativehumidity_2m,precipitation,surface_pressure&current_weather=true&temperature_unit=fahrenheit&windspeed_unit=mph&precipitation_unit=inch&timezone=America%2FNew_York&past_days=7');
+// Get the data from the request
+const data = await response.json();
+// Structure output
+
+// Cleanup and exit (if necessary)
+// Log the data onto STDOUT
+console.log(data);
+```
+
+Refer to the last session notes for the structure you see outlined in the comments above.
+
+To use command-line arguments as variables, we have already used minimist, so we can do that again.
+
+To load minimist and see what arguments look like, do this: 
+
+```
+// Dependencies
+import minimist from 'minimist';
+// Use minimist to parse command line arguments
+const args = minimist(process.argv.slice(2))
+// See what is stored in `args` by minimist
+console.log(args)
+```
+
+Finally if we want to be able to return a help message when we run our script with `-h`, we can do the following:
+
+```
+// Dependencies
+import minimist from 'minimist';
+
+const args = minimist(process.argv.slice(2))
+console.log(args)
+// Default action
+// Was the command called with `-h`?
+if ( args.h ) {
+// If yes, then log the help message onto STDOUT
+console.log(`Usage: galosh.js [options] -[n|s] LATITUDE -[e|w] LONGITUDE -z TIME_ZONE
+
+    -h            Show this help message and exit.
+    -n, -s        Latitude: N positive; S negative.
+    -e, -w        Longitude: E positive; W negative.
+    -z            Time zone: uses tz.guess() from moment-timezone by default.
+    -d 0-6        Day to retrieve weather: 0 is today; defaults to 1.
+    -j            Echo pretty JSON from open-meteo API and exit.
+`)
+// And exit
+process.exit(0)
+}
+```
