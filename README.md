@@ -23,11 +23,10 @@ The table will also contain links to any slides used in class sessions and sessi
 | [2022-09-27 11 Creating a module](./11-create-module.md) | [Notes](./11-create-module.md#notes) |  | |
 | [2022-09-29 12 Generate data](./12-generate-data.md) |[Notes](./12-generate-data.md#notes) |  | |
 | [2022-10-04 13 Serving data (API)](./13-serving-data.md) | [Notes](./13-serving-data.md#notes) |  | |
-| [2022-10-06 14 Connecting a database](./14-database.md) | [Notes](./14-database.md#notes) |  | |
+| [2022-10-06 14 Creating endpoints (API)](./14-endpoints.md) | [Notes](./14-endpoints.md#notes) |  | |
 | [2022-10-11 15 Logs](./15-logs.md) | [Notes](./15-logs.md#notes) |  | |
-| [2022-10-13 16 Authenticating users](./16-auth.md) | [Notes](./16-auth.md#notes) |  | |
-| 2022-10-13 16  | |  | |
-| 2022-10-18 17  | |  | |
+| [2022-10-13 16 Connecting a database](./16-database.md) | [Notes](./16-database.md#notes) |  | |
+| [2022-10-18 17 Authenticating users](./17-auth.md) | [Notes](./17-auth.md#notes) | 
 | 2022-10-20 ** Fall Break | |  | |
 | 2022-10-25 18  | |  | |
 | 2022-10-27 19  | |  | |
