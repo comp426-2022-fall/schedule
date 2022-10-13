@@ -4,7 +4,8 @@
 
 1. How does middleware work?
 2. body parser (URL encoded and JSON
-3. Request body object (req)
+3. Request body object
+4. `req.body` and `req.params`
 
 ### Useful links
 
