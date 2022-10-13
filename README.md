@@ -28,8 +28,8 @@ The table will also contain links to any slides used in class sessions and sessi
 | [2022-10-13 15 Middleware](./15-middleware.md) |  | |
 | [2022-10-18 16 Logs](./16-logs.md) | [Notes](./16-logs.md#notes) |  | |
 | 2022-10-20 ** Fall Break | |  | |
-| 2022-10-25 17  Connecting a database](./17-database.md) | [Notes](./17-database.md#notes) |  | |
-| 2022-10-27 18  Authenticating users](./18-auth.md) | [Notes](./18-auth.md#notes) | 
+| [2022-10-25 17  Connecting a database](./17-database.md) | [Notes](./17-database.md#notes) |  | |
+| [2022-10-27 18  Authenticating users](./18-auth.md) | [Notes](./18-auth.md#notes) | |
 | 2022-11-01 19  | |  | |
 | 2022-11-03 20  | |  | |
 | 2022-11-08 21  | |  | |
