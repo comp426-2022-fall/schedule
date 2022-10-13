@@ -20,22 +20,22 @@ The table will also contain links to any slides used in class sessions and sessi
 | [2022-09-15 08 Scripting](./08-scripting.md) | [Notes](./08-scripting.md) |  | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a8a01bae-344b-442e-bc34-af12009d1b77) |
 | [2022-09-20 09 Packages and dependency management](./09-dependencies.md) | [Notes](./09-dependencies.md#notes) |  | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=89bbb0f5-9e1d-465b-bba1-af1600d8c78e) |
 | [2022-09-22 10 Functions](./10-functions.md) | [Notes](./10-functions.md#notes) |  | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=09705938-3406-45cd-883d-af1800dee9b3) |
-| [2022-09-27 11 Creating a module](./11-create-module.md) | [Notes](./11-create-module.md#notes) |  | |
-| [2022-09-29 12 Generate data](./12-generate-data.md) |[Notes](./12-generate-data.md#notes) |  | |
-| [2022-10-04 13 Serving data (API)](./13-serving-data.md) | [Notes](./13-serving-data.md#notes) |  | |
-| [2022-10-06 14 Creating endpoints (API)](./14-endpoints.md) | [Notes](./14-endpoints.md#notes) |  | |
-| [2022-10-11 15 Logs](./15-logs.md) | [Notes](./15-logs.md#notes) |  | |
-| [2022-10-13 16 Connecting a database](./16-database.md) | [Notes](./16-database.md#notes) |  | |
-| [2022-10-18 17 Authenticating users](./17-auth.md) | [Notes](./17-auth.md#notes) | 
+| [2022-09-27 11 Creating a module](./11-create-module.md) | [Notes](./11-create-module.md#notes) |  | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3b0eb5d9-ff6c-4020-b504-af1d00dc76c0) |
+| [2022-09-29 12 Generate data](./12-generate-data.md) |[Notes](./12-generate-data.md#notes) |  | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=27482aa5-47d0-4f78-bfd8-af1f00de2866) |
+| [2022-10-04 13 REST and Express (API)](./13-rest-api.md) | [Notes](./13-rest-api.md#notes) |  | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7338d38f-b82d-4d13-884d-af2400e0ef45) |
+| [2022-10-06 14 Creating endpoints (API)](./14-endpoints.md) | [Notes](./14-endpoints.md#notes) |  | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f8f5f0b3-d78f-4429-903e-af2600deb7da) |
+| [2022-10-11 ** canceled | |  | |
+| [2022-10-13 15 Middleware](./15-middleware.md) |  | |
+| [2022-10-18 16 Logs](./16-logs.md) | [Notes](./16-logs.md#notes) |  | |
 | 2022-10-20 ** Fall Break | |  | |
-| 2022-10-25 18  | |  | |
-| 2022-10-27 19  | |  | |
-| 2022-11-01 20  | |  | |
-| 2022-11-03 21  | |  | |
-| 2022-11-08 22  | |  | |
-| 2022-11-10 23  | |  | |
-| 2022-11-15 24  | |  | |
-| 2022-11-17 25  | |  | |
-| 2022-11-22 26  | |  | |
+| 2022-10-25 17  Connecting a database](./17-database.md) | [Notes](./17-database.md#notes) |  | |
+| 2022-10-27 18  Authenticating users](./18-auth.md) | [Notes](./18-auth.md#notes) | 
+| 2022-11-01 19  | |  | |
+| 2022-11-03 20  | |  | |
+| 2022-11-08 21  | |  | |
+| 2022-11-10 22  | |  | |
+| 2022-11-15 23  | |  | |
+| 2022-11-17 24  | |  | |
+| 2022-11-22 25  | |  | |
 | 2022-11-24 ** Thanksgiving Recess | |  | |
-| 2022-11-29 27  | |  | |
+| 2022-11-29 26  | |  | |
