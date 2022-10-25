@@ -24,18 +24,18 @@ The table will also contain links to any slides used in class sessions and sessi
 | [2022-09-29 12 Generate data](./12-generate-data.md) |[Notes](./12-generate-data.md#notes) |  | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=27482aa5-47d0-4f78-bfd8-af1f00de2866) |
 | [2022-10-04 13 REST and Express (API)](./13-rest-api.md) | [Notes](./13-rest-api.md#notes) |  | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7338d38f-b82d-4d13-884d-af2400e0ef45) |
 | [2022-10-06 14 Creating endpoints (API)](./14-endpoints.md) | [Notes](./14-endpoints.md#notes) |  | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f8f5f0b3-d78f-4429-903e-af2600deb7da) |
-| [2022-10-11 ** canceled | |  | |
-| [2022-10-13 15 Middleware](./15-middleware.md) |  | |
-| [2022-10-18 ** canceled | |  | |
+| 2022-10-11 ** canceled | |  | |
+| [2022-10-13 15 Middleware](./15-middleware.md) | [Notes](./15-endpoints.md#notes) |  | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5ece12c1-23eb-43ee-87bc-af2d00dd5579) |
+| 2022-10-18 ** canceled | |  | |
 | 2022-10-20 ** Fall Break | |  | |
-| [2022-10-25 16 Logs](./16-logs.md) | [Notes](./16-logs.md#notes) |  | |
+| [2022-10-25 16 Logs](./16-logs.md) | [Notes](./16-logs.md#notes) |  | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=792ec99e-3556-477e-9c5e-af3900e271d4) |
 | [2022-10-27 17 Connecting a database](./17-database.md) | [Notes](./17-database.md#notes) |  | |
-| 2022-11-01 18 Authenticating users](./18-auth.md) | [Notes](./18-auth.md#notes) | |
-| 2022-11-03 19  | |  | |
-| 2022-11-08 20  | |  | |
-| 2022-11-10 21  | |  | |
-| 2022-11-15 22  | |  | |
-| 2022-11-17 23  | |  | |
-| 2022-11-22 24  | |  | |
+| [2022-11-01 18 User accounts](./18-users.md) | [Notes](./18-users.md#notes) |  | |
+| [2022-11-03 19 Authenticating users](./19-auth.md) | [Notes](./19-auth.md#notes) | |
+| 2022-11-08 20 Login form | |  | |
+| 2022-11-10 21 Basic user interface | |  | |
+| 2022-11-15 22 User interactions | |  | |
+| 2022-11-17 23 Frameworks 1 | |  | |
+| 2022-11-22 24 Frameworks 2 | |  | |
 | 2022-11-24 ** Thanksgiving Recess | |  | |
-| 2022-11-29 25  | |  | |
+| 2022-11-29 25 Wrap up | |  | |
