@@ -1,11 +1,10 @@
-# 14 Generate some data
+# 16 Logging
 
 ## 2022-10-18
 
-1. regex
-2. Why log?
-3. What do we log?
-4. How to log?
+1. Why log?
+2. What do we log?
+3. How to log?
 
 ### Useful links
 
@@ -23,10 +22,6 @@
 
 [Understanding logging levels](https://sematext.com/blog/logging-levels/) - Rafal Kuć
 
-#### regex
+#### Logging for Express/Node
 
-[Regex tutorial](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285) - Jonny Fox
 
-[regular expressions 101](https://regex101.com)
-
-[Regex Crossword](https://regexcrossword.com/)
