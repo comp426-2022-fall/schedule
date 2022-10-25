@@ -26,16 +26,16 @@ The table will also contain links to any slides used in class sessions and sessi
 | [2022-10-06 14 Creating endpoints (API)](./14-endpoints.md) | [Notes](./14-endpoints.md#notes) |  | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f8f5f0b3-d78f-4429-903e-af2600deb7da) |
 | [2022-10-11 ** canceled | |  | |
 | [2022-10-13 15 Middleware](./15-middleware.md) |  | |
-| [2022-10-18 16 Logs](./16-logs.md) | [Notes](./16-logs.md#notes) |  | |
+| [2022-10-18 ** canceled | |  | |
 | 2022-10-20 ** Fall Break | |  | |
-| [2022-10-25 17  Connecting a database](./17-database.md) | [Notes](./17-database.md#notes) |  | |
-| [2022-10-27 18  Authenticating users](./18-auth.md) | [Notes](./18-auth.md#notes) | |
-| 2022-11-01 19  | |  | |
-| 2022-11-03 20  | |  | |
-| 2022-11-08 21  | |  | |
-| 2022-11-10 22  | |  | |
-| 2022-11-15 23  | |  | |
-| 2022-11-17 24  | |  | |
-| 2022-11-22 25  | |  | |
+| [2022-10-25 16 Logs](./16-logs.md) | [Notes](./16-logs.md#notes) |  | |
+| [2022-10-27 17 Connecting a database](./17-database.md) | [Notes](./17-database.md#notes) |  | |
+| 2022-11-01 18 Authenticating users](./18-auth.md) | [Notes](./18-auth.md#notes) | |
+| 2022-11-03 19  | |  | |
+| 2022-11-08 20  | |  | |
+| 2022-11-10 21  | |  | |
+| 2022-11-15 22  | |  | |
+| 2022-11-17 23  | |  | |
+| 2022-11-22 24  | |  | |
 | 2022-11-24 ** Thanksgiving Recess | |  | |
-| 2022-11-29 26  | |  | |
+| 2022-11-29 25  | |  | |
