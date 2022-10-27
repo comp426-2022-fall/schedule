@@ -74,13 +74,11 @@ In our case, we want to [write the log output to a stream using the FS module](h
 The end result will be this: 
 
 ```server.js
-...
 // Use morgan for logging to files
 // Create a write stream to append to an access.log file
 const accessLog = fs.createWriteStream('access.log', { flags: 'a' })
 // Set up the access logging middleware
 app.use(morgan('combined', { stream: accessLog }))
-...
 ```
 
 The above code will produse a file `access.log` that looks like this: 
@@ -98,7 +96,7 @@ If we want to create the same or similar type of log, but as a database table th
 
 We will go with the option that involves extracting specific information from the Express `req` object and placing that information in the appropriate field in a database table.
 
-```
+```database.js
 // Require better-sqlite3
 // const database = require('better-sqlite3')
 // Import better-sqlite3
