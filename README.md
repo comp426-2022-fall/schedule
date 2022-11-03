@@ -29,13 +29,13 @@ The table will also contain links to any slides used in class sessions and sessi
 | 2022-10-18 ** canceled | |  | |
 | 2022-10-20 ** Fall Break | |  | |
 | [2022-10-25 16 Logs](./16-logs.md) | [Notes](./16-logs.md#notes) |  | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=792ec99e-3556-477e-9c5e-af3900e271d4) |
-| [2022-10-27 17 Connecting a database](./17-database.md) | [Notes](./17-database.md#notes) |  | |
-| [2022-11-01 18 User accounts](./18-users.md) | [Notes](./18-users.md#notes) |  | |
-| [2022-11-03 19 Authenticating users](./19-auth.md) | [Notes](./19-auth.md#notes) | |
-| 2022-11-08 20 Login form | |  | |
-| 2022-11-10 21 Basic user interface | |  | |
-| 2022-11-15 22 User interactions | |  | |
-| 2022-11-17 23 Frameworks 1 | |  | |
-| 2022-11-22 24 Frameworks 2 | |  | |
+| [2022-10-27 17 Connecting a database](./17-database.md) | [Notes](./17-database.md#notes) |  | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a0fa1748-080d-4546-bdc3-af3b00e2da90) |
+| 2022-11-01 18 Followup for log database | |  | |
+| [2022-11-03 19 User accounts](./18-users.md) | [Notes](./18-users.md#notes) |  | |
+| [2022-11-08 20 Authenticating users](./19-auth.md) | [Notes](./19-auth.md#notes) | |
+| 2022-11-10 21 Login form | |  | |
+| 2022-11-15 22 Basic user interface | |  | |
+| 2022-11-17 23 User interactions | |  | |
+| 2022-11-22 24 Frameworks | |  | |
 | 2022-11-24 ** Thanksgiving Recess | |  | |
 | 2022-11-29 25 Wrap up | |  | |
