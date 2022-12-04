@@ -42,10 +42,6 @@ This site required that you sign up for an account, but it IMMENSELY useful and 
 
 #### Third-party auth using OAuth
 
-[Oauth](https://www.passportjs.org/concepts/authentication/oauth/)
-
-[passport-oauth2](http://www.passportjs.org/packages/passport-oauth2/)
-
 [Implementing OAuth 2.0 with Node.js](https://www.sohamkamani.com/nodejs/oauth/) - Soham Kamani
 
 [Understanding and Implementing OAuth2 in Node.js](https://www.honeybadger.io/blog/oauth-nodejs-javascript/) - Diogo Souza
@@ -53,6 +49,10 @@ This site required that you sign up for an account, but it IMMENSELY useful and 
 [Implementing an OAuth Server with Node.js and Express](https://thecodebarbarian.com/oauth-with-node-js-and-express.html) - Valeri Karpov
 
 [Express JS OAuth 2 server using oauth2-server package](https://niceprogrammer.com/express-js-oauth-2-server-using-oauth2-server-package/) - Nick B. Alcala
+
+[Oauth](https://www.passportjs.org/concepts/authentication/oauth/)
+
+[passport-oauth2](http://www.passportjs.org/packages/passport-oauth2/)
 
 ### Node / Express Authentication
 
