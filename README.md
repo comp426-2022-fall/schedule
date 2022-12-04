@@ -35,7 +35,7 @@ The table will also contain links to any slides used in class sessions and sessi
 | [2022-11-08 20 Writing and debugging middleware](./20-users.md) |  | | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5984aa6c-c315-4c9e-91d3-af4700ede720) |
 | [2022-11-10 21 Authentication and authorization overview](./21-auth.md) |  | | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0b38b8a0-478f-407e-8a5a-af4900eacc09) |
 | 2022-11-15 ** canceled | |  | |
-| 2022-11-17 23 Endpoints followup | |  | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e42af269-8176-4b51-a5e1-af5000f457c8) |
-| 2022-11-22 24 Final project overview and logistics | |  | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9007199e-959e-4d98-bcfa-af5500ec9123) |
+| [2022-11-17 22 Endpoints followup](./22-endpoints.md) | |  | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e42af269-8176-4b51-a5e1-af5000f457c8) |
+| [2022-11-22 23 Final project overview and logistics](./23-final-project.md) | |  | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9007199e-959e-4d98-bcfa-af5500ec9123) |
 | 2022-11-24 ** Thanksgiving Recess | |  | |
-| 2022-11-29 25 Wrap up | |  | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5c808a35-54fb-4254-ba67-af5c00edc4a9) |
+| [2022-11-29 24 Wrap up](./24-wrapup.md) | |  | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5c808a35-54fb-4254-ba67-af5c00edc4a9) |
