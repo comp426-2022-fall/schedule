@@ -9,18 +9,15 @@
 
 ### Useful links
 
-
 #### PassportJS
 
 [Passport.js](https://www.passportjs.org/)
 
 [Node.js and Express Authentication Using Passport](https://auth0.com/blog/create-a-simple-and-secure-node-express-app/) - Dan Arias
 
-https://heynode.com/tutorial/authenticate-users-node-expressjs-and-passportjs/
+[Using Passport for authentication in Node.js](https://blog.logrocket.com/using-passport-authentication-node-js/) - Subha Chanda
 
-https://blog.logrocket.com/using-passport-authentication-node-js/
-
-https://blog.risingstack.com/node-hero-node-js-authentication-passport-js/
+[Passport.js & Node : Authentication Tutorial for Beginners](https://blog.risingstack.com/node-hero-node-js-authentication-passport-js/) - RisingStack
 
 #### hey(node) login and auth tutorial series
 
@@ -64,15 +61,15 @@ This site required that you sign up for an account, but it IMMENSELY useful and 
 
 #### Tokens and cookies
 
-[Authentication and authorization with JSTs in Express.js](https://stackabuse.com/authentication-and-authorization-with-jwts-in-express-js/)
+[Authentication and authorization with JSTs in Express.js](https://stackabuse.com/authentication-and-authorization-with-jwts-in-express-js/) - Janith Kasun
 
-[Using Curl to authenticate with JWT bearer tokens](https://nieldw.medium.com/using-curl-to-authenticate-with-jwt-bearer-tokens-55b7fac506bd)
+[Using Curl to authenticate with JWT bearer tokens](https://nieldw.medium.com/using-curl-to-authenticate-with-jwt-bearer-tokens-55b7fac506bd) - Niel de Wet
 
 [express-jwt](https://www.npmjs.com/package/express-jwt) - NPM
 
 #### Cookies
 
-[What are cookies?](https://www.section.io/engineering-education/what-are-cookies-nodejs/)
+[What are cookies?](https://www.section.io/engineering-education/what-are-cookies-nodejs/) - Catherine Macharia
 
 [Cookie parser](http://expressjs.com/en/resources/middleware/cookie-parser.html) - Express
 
