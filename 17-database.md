@@ -1,4 +1,4 @@
-# 18 Database connection
+# 18 Database connections
 
 ## 2022-10-27
 
@@ -8,38 +8,10 @@
 2. SQLite
 3. Set up a database connection using better-sqlite
 4. Creating a log database
-5. (Write a log file with Morgan)
 
 ### Useful links
 
-#### Generating logs
-
-[Express.js and Morgan Logging](https://www.loggly.com/use-cases/express-js-and-morgan-logging/)
-
-[How to use morgan in your Express project](https://www.digitalocean.com/community/tutorials/nodejs-getting-started-morgan) - Cooper Makhijani
-
-[Morgan NPM Logger - The Beginner's Guide](https://coralogix.com/blog/morgan-npm-logger-the-complete-guide/) - Fernando Doglio
-
-[Morgan NPM Logger (source code)](https://github.com/expressjs/morgan)
-
-[Morgan (npm package)](https://www.npmjs.com/package/morgan)
-
-[A guide to Node.js logging](https://www.twilio.com/blog/guide-node-js-logging) - Dominik Kundel
-
-[Node.js logging made easy: A tutorial on just about everything you need to know](https://sematext.com/blog/node-js-logging/) - Adnan Rahić
-
-#### Writing log files
-
-[Morgan](https://expressjs.com/en/resources/middleware/morgan.html) - Express
-
-[Logging](https://riptutorial.com/express/topic/7191/logging) - RIP Tutorial
-
-[Node.js logging - How to get started](https://www.papertrail.com/solution/tips/node-js-logging-how-to-get-started/)
-
-[A complete guide to Node.js logging (with the best practices for logging)](https://betterprogramming.pub/a-complete-guide-to-node-js-logging-1ba70a4a346d) - Yasas Sandeepa
-
-[How to get started with logging in Node.js](https://betterstack.com/community/guides/logging/how-to-start-logging-with-node-js/) - Better Stack Team
-
+#### Database integration
 
 [Express Database Integration Guide](https://expressjs.com/en/guide/database-integration.html)
 
