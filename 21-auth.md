@@ -1,4 +1,4 @@
-# 20 Authentication and authorization
+# Authentication and authorization
 
 ## 2022-11-10
 
