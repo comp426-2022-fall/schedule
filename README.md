@@ -31,9 +31,9 @@ The table will also contain links to any slides used in class sessions and sessi
 | [2022-10-25 16 Logs](./16-logs.md) | [Notes](./16-logs.md#notes) |  | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=792ec99e-3556-477e-9c5e-af3900e271d4) |
 | [2022-10-27 17 Connecting a database](./17-database.md) | [Notes](./17-database.md#notes) |  | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a0fa1748-080d-4546-bdc3-af3b00e2da90) |
 | 2022-11-01 18 Followup for log database | |  | |
-| [2022-11-03 19 CRUD endpoints and database setup](./18-crud.md) | [Notes](./18-crud.md#notes) |  | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a74c35d5-3f78-4bc2-bdaf-af4200dfca4a) |
-| [2022-11-08 20 Writing and debugging middleware](./20-auth.md) | [Notes](./20-auth.md#notes) | | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5984aa6c-c315-4c9e-91d3-af4700ede720) |
-| 2022-11-10 21 Authentication and authorization overview | | | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0b38b8a0-478f-407e-8a5a-af4900eacc09) |
+| [2022-11-03 19 CRUD endpoints and database setup](./19-crud.md) | [Notes](./19-crud.md#notes) |  | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a74c35d5-3f78-4bc2-bdaf-af4200dfca4a) |
+| [2022-11-08 20 Writing and debugging middleware](./20-users.md) |  | | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5984aa6c-c315-4c9e-91d3-af4700ede720) |
+| [2022-11-10 21 Authentication and authorization overview](./21-auth.md) |  | | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0b38b8a0-478f-407e-8a5a-af4900eacc09) |
 | 2022-11-15 ** canceled | |  | |
 | 2022-11-17 23 Endpoints followup | |  | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e42af269-8176-4b51-a5e1-af5000f457c8) |
 | 2022-11-22 24 Final project overview and logistics | |  | [Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9007199e-959e-4d98-bcfa-af5500ec9123) |
