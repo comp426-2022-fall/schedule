@@ -1,6 +1,6 @@
-# 16 Logging
+# 16 Logs
 
-## 2022-10-18
+## 2022-10-25
 
 1. Why log?
 2. What do we log?
@@ -24,4 +24,10 @@
 
 #### Logging for Express/Node
 
+[Debugging Express](https://expressjs.com/en/guide/debugging.html)
 
+[The basics of Node.js logging](https://stackify.com/node-js-logging/) - Phil Vuollet
+
+[Best practices for logging in Node.js](https://blog.appsignal.com/2021/09/01/best-practices-for-logging-in-nodejs.html) - Ayooluwa Isaiah
+
+[Express.js and Morgan logging](https://www.loggly.com/use-cases/express-js-and-morgan-logging/) - Loggly
